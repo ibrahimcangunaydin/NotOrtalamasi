@@ -17,5 +17,4 @@ public class KDVTutarihesaplama {
         System.out.println("KDV'li Tutar: "+kdvliTutar);
 
     }
-
 }
